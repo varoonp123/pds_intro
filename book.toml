@@ -1,0 +1,6 @@
+[book]
+authors = ["varoon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Intro to Persistent Data Structures"
